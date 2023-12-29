@@ -1,0 +1,7 @@
+1. Run the python code or release exe.
+2. Put in the fruits on either side.
+3. Check the checkbox if you want to adjust for hype.
+4. Press calculate.
+
+If you get error 1, you put in an invalid fruit.
+Dont use T-rex, use trex, that might be causing your issues
